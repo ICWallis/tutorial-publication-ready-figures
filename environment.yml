@@ -1,4 +1,4 @@
-name: figures
+name: figtut
 channels:
   - conda-forge
   - defaults
