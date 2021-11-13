@@ -6,21 +6,20 @@ This workshop is your cheat sheet for using the Python packages matplotlib and S
 
 We assume some previous experience with Python but you’ll be able to do this workshop if you have imported a module, printed a statement, and made a basic plot. Detailed setup instructions will be provided prior to the workshop, along with a link to the course material. If you’re looking for a way to level-up your data visualizations and increase engagement with your research, then this workshop is for you.
 
-**This tutorial is in prep for the November 2021 University of Auckland Research Bazar (ResBaz)**
-
-
 ***
 # Setup instructions
 
-Register for the live session (date/time TBC) 
+*Registrations for the November 2021 live session are now full*
 
 Get set up before the live session:
 
 - If you have your own computer and can install software, then follow the Anaconda Setup instructions (recommended setup approach)
 
-- If you are using a shared computer that you can not install software on, then follow the Google Colaboratory instructions (alternate setup approach)
+- If you are using a shared computer that you can not install software on, then you can interact with this tutorial using Binder. Click the Binder icon below and wait for it to load. When it has loaded, it will open the tutorial and you can edit and run the code. You can save your work and have it retained during that Binder session. However, once you close your browser, any saved work will be lost. 
 
-If you are having trouble getting set up, then come along to Hackyhour. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICWallis/tutorial-publication-ready-figures/main)
+ 
 
 ***
 ## Anaconda Setup Instructions
@@ -64,16 +63,3 @@ Print a list of what is inside your active environment
 To install an additional package into the active environment
 
     $ pip install <PackageName>
-
-***
-## Google Colaboratory Setup Instructions
-
-Google Colab is a way to run the tutorial Jupyter Notebooks (.ipynb) in the cloud. It is free to use but, as is typical of Google products, you have to sign in. We will use the free Google Colab (there is no need to sign up for Google Colab Pro).
-
-1. If you do not already have one, you will need a Google account. If you have a gmail address, you already have a google account.
-2. Download the content of this repository by clicking on the green "Code" button above and selecting "Download zip"
-3. Unzip the tutorial-publication-ready-figures-main.zip 
-4. Sign into your [Google Drive](http://www.drive.google.com/) using your Google account details and upload the unzipped tutorial-publication-ready-figures-main folder to google drive. Note that you need to upload into the browser google drive, not the local Google Drive on your hard drive (if you happen to have one).
-5. Open the tutorial-publication-ready-figures-main on Google Drive, right click any file that ends with .ipynb and select "open with". If Google Colaboratory appears in your list, then select this. If Google Colaboratory is not already an option, you need to install this into your Google Drive. To install Google Colaboratory: 1) Right click an .ipynb -> open with -> connect more apps, 2) search the Google Workspace Marketplace for 'Colaboratory', and 3) install Google Colaboratory. Now you will be able to go back to your .ipynb and open with Google Colaboratory.
-
-After you have opened the Jupyter Notebooks (.ipynb) in Colab, you will need to mount your Google Drive (i.e., make Google Drive visible to the notebook) so you can import data. Instructions for how to do this is included in the top of each notebook after the introductory text. 
