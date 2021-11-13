@@ -32,7 +32,7 @@ Download and instal [Anaconda individual edition](https://www.anaconda.com/produ
 
 In Windows open the anaconda prompt or in macOS open a terminal. Use the prompt/terminal to navigate to where you have saved this tutorial (hint: use _cd \<path_to_the_tutoral\>_ to change directory)
  
-In the tutorial folder, you will find an environment.yml file (hint: use _ls_ in MacOS or _dir_ in Windows to list files in your current directory). We will use this file to create an environment that will run the tutorial. Execute the following command in the prompt/terminal to create the environment:
+In the tutorial folder, you will find an environment.yml file (hint: use _ls_ in MacOS or _dir_ in Windows to list files in your current directory). We will use this file to create an environment that will run the tutorial. Execute the following command in the prompt/terminal to create the environment (hint: do not include the $ sign):
  
     $ conda env create -f environment.yml
  
@@ -40,7 +40,7 @@ You will see a lot of text scroll past in the the prompt/terminal and may need t
  
     $ conda activate figtut
  
-\(plttut\) should now appear on the far left of your current line in the prompt/terminal window. Now you are inside the right environment, you can execute the following command to launch a browser window containing Juypter notebook:
+\(figtut\) should now appear on the far left of your current line in the prompt/terminal window. Now you are inside the right environment, you can execute the following command to launch a browser window containing Juypter notebook:
  
     $ jupyter notebook
  
@@ -48,7 +48,7 @@ Now you can open the tutorial notebooks and use them.
 
 When you are finished with Juypter Notebook, you can close the browser window and go back to the prompt/terminal to kill the process with CTRL + C.
  
-When you come back to the tutorial at a later date, you will probably have to activate the plttut environment again before launching Juypter Notebook.
+When you come back to the tutorial at a later date, you will probably have to activate the figtut environment again before launching Juypter Notebook.
  
 **Other useful commands**
  
