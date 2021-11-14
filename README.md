@@ -7,7 +7,7 @@ This workshop is your cheat sheet for using the Python packages matplotlib and S
 We assume some previous experience with Python but you’ll be able to do this workshop if you have imported a module, printed a statement, and made a basic plot. Detailed setup instructions will be provided prior to the workshop, along with a link to the course material. If you’re looking for a way to level-up your data visualizations and increase engagement with your research, then this workshop is for you.
 
 ***
-# Setup instructions
+# Setup Instructions
 
 *Registrations for the November 2021 live session are now full*
 
@@ -18,7 +18,7 @@ Get set up before the live session:
 - If you are using a shared computer that you can not install software on, then you can interact with this tutorial on-line using Binder. See the bottom of this page for a link and instructions. 
 
 ***
-## Anaconda Setup Instructions (Recommended)
+## Anaconda Instructions (Recommended)
  
 To run this tutorial, you will need an environment that contains all of the required packages. If you are familiar with setting up your own environment, then go ahead with your usual approach. Otherwise, use the following steps.
 
