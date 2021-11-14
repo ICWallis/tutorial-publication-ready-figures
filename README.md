@@ -13,9 +13,9 @@ We assume some previous experience with Python but you’ll be able to do this w
 
 Get set up before the live session:
 
-- If you have your own computer and can install software, then follow the Anaconda Setup instructions below. This is the recommended setup.
+- If you have your own computer and can install software, then follow the Anaconda instructions below. This is the recommended setup.
 
-- If you are using a shared computer that you can not install software on, then you can interact with this tutorial on-line using Binder. See the bottom of this page for a link and instructions. 
+- If you are using a shared computer that you can not install software on, then you can interact with this tutorial on-line using Binder. See the bottom of this page for a Binder link (button) and instructions. 
 
 ***
 ## Anaconda Instructions (Recommended)
@@ -63,7 +63,7 @@ To install an additional package into the active environment
 ***
 ## Binder Instructions (Backup)
 
- Click the Binder icon below and wait for it to load. The first time you do this, Binder can take up to 10 minutes to load. 
+ Click the Binder button below and wait for it to load. The first time you do this, Binder can take up to 10 minutes to load. Click 'show' on the 'Build Logs' bar if you want to watch the process of the Binder environment building. 
  
  When Binder has loaded, it will open the tutorial in Jupyter Lab. You can edit and run the code there. You can also save your work and have it retained during that Binder session. However, once you close your browser, any saved work will be lost. 
 
