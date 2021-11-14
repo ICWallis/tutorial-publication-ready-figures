@@ -63,7 +63,7 @@ To install an additional package into the active environment
 ***
 ## Binder Instructions (Backup)
 
- Click the Binder button below and wait for it to load. The first time you do this, Binder can take up to 10 minutes to load. Click 'show' on the 'Build Logs' bar if you want to watch the process of the Binder environment building. 
+ Click the Binder button below and wait for it to load. The first time you do this, Binder can take up to 10 minutes to load. Click 'show' on the 'Build Logs' bar if you want to watch the Binder environment building. 
  
  When Binder has loaded, it will open the tutorial in Jupyter Lab. You can edit and run the code there. You can also save your work and have it retained during that Binder session. However, once you close your browser, any saved work will be lost. 
 
