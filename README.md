@@ -15,14 +15,10 @@ Get set up before the live session:
 
 - If you have your own computer and can install software, then follow the Anaconda Setup instructions (recommended setup approach)
 
-- If you are using a shared computer that you can not install software on, then you can interact with this tutorial using Binder. Click the Binder icon below and wait for it to load. When it has loaded, it will open the tutorial and you can edit and run the code. You can save your work and have it retained during that Binder session. However, once you close your browser, any saved work will be lost. 
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICWallis/tutorial-publication-ready-figures/main)
- 
+- If you are using a shared computer that you can not install software on, then you can interact with this tutorial using Binder.
 
 ***
-## Anaconda Setup Instructions
+## Anaconda Setup Instructions (Recommended)
  
 To run this tutorial, you will need an environment that contains all of the required packages. If you are familiar with setting up your own environment, then go ahead with your usual approach. Otherwise, use the following steps.
 
@@ -63,3 +59,14 @@ Print a list of what is inside your active environment
 To install an additional package into the active environment
 
     $ pip install <PackageName>
+
+***
+## Binder Instructions
+
+ Click the Binder icon below and wait for it to load. The first time you do this, Binder can take up to 10 minutes to load. 
+ 
+ When Binder has loaded, it will open the tutorial in Jupyter Lab. You can edit and run the code there. You can also save your work and have it retained during that Binder session. However, once you close your browser, any saved work will be lost. 
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICWallis/tutorial-publication-ready-figures/main)
+ 
